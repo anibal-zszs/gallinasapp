@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443383234481",
+    "project_id": "gallineroapp",
+    "storage_bucket": "gallineroapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443383234481:android:11276e6f2697f649338790",
+        "android_client_info": {
+          "package_name": "com.inacap.GallineroApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sH7eueVU7_QA-DnojjyhS8hkZdQhvUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443383234481:android:89174eaebad0a223338790",
+        "android_client_info": {
+          "package_name": "com.inacap.gallinasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sH7eueVU7_QA-DnojjyhS8hkZdQhvUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
